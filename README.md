@@ -1,7 +1,8 @@
 Castform App
 ===================================
 
-Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets.
+Synchronizes weather information from OpenWeatherMap on Android phones and tablets.
+Major project for semester 8.
 
 Pre-requisites
 --------------
