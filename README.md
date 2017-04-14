@@ -5,7 +5,7 @@ Synchronizes weather information from OpenWeatherMap on Android Phones and Table
 
 Pre-requisites
 --------------
-Android SDK 21 or Higher
+Android SDK 21 or higher
 Build Tools version 21.1.2
 Android Support AppCompat 22.2.0
 Android Support Annotations 22.2.0
